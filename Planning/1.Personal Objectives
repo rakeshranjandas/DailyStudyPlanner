@@ -1,7 +1,12 @@
 
 
 
-1) Framework (Both Backend and Frontend)
+1) Framework - Backend(?) and Frontend(Vue.js)
 2) Docker
 3) DB - NoSQL
 4) Auth0
+5) Typescript, New ES6 features, Babel
+6) Node, Hot reloading
+7) Swagger - API documentation tool
+8) Bundler based dev - Webpack/Vite
+9) TDD, BDD
